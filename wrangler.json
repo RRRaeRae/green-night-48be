@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "green-night-48be",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "9d8f2895-24f7-4b7e-8b12-644ff12fb318",
+      "database_name": "calm-tree-7756-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
